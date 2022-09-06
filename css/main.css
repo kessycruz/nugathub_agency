@@ -10,6 +10,7 @@
 } 
 html, body {
   overflow-x: hidden;
+  font-family: "Nunito";
 }
 
 /**
@@ -74,7 +75,7 @@ html {
 /* Hero (intro) section */
 .intro-title {
   font-weight: 900;
-  font-size: 48px;
+  font-size: 42px;
 }
 
 @-webkit-keyframes animateWave {
@@ -261,7 +262,7 @@ footer a:not(.nav-link) {
   position: absolute;
   bottom: -25px;
   right: -30px;
-  background-image: url("../images/marker.svg");
+  background-image: url("images/marker.svg");
   background-repeat: no-repeat;
 }
 

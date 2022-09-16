@@ -39,6 +39,11 @@ ul, li{
   scroll-margin-top: 2rem;
 }
 
+.topcontact{
+  padding: 5px;
+  font-size: .9rem;
+}
+
 /* Header */
 .site-title {
   font-size: 1.5rem;
